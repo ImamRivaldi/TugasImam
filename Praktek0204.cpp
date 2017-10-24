@@ -8,4 +8,9 @@ int main () {
 	double LuasParket = 193*1215;
 	
 	double Box = LuasParket*8/1000000;
+	
+	double JumlahBox, Parket, Pasang, Total;
+	cout<<"Luas Rumah        :  ";
+	cin>>LuasRumah;
+	cout<<"--------------------------------";
 }
