@@ -25,4 +25,7 @@ int main () {
 	
 	Pasang = LuasRumah * 20;
 	cout<<"Biaya Pasang(Rp)  : " <<Pasang<<endl;
+	
+	Total = Parket + Pasang;
+	cout<<"Total Biaya(Rp)   : " <<Total<<endl;
 }
