@@ -19,4 +19,7 @@ int main () {
 	
 	JumlahBox = LuasRumah/Box;
 	cout<<"Jumlah Box Parket : "<<JumlahBox<<endl;
+	
+	Parket = JumlahBox * 500;
+	cout<<"Biaya Parket(Rp)  : "<<Parket<<endl;
 }
