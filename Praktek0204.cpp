@@ -6,4 +6,6 @@ int main () {
 	int LuasRumah;
 	
 	double LuasParket = 193*1215;
+	
+	double Box = LuasParket*8/1000000;
 }
