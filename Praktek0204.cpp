@@ -12,5 +12,8 @@ int main () {
 	double JumlahBox, Parket, Pasang, Total;
 	cout<<"Luas Rumah        :  ";
 	cin>>LuasRumah;
-	cout<<"--------------------------------";
+	cout<<"-------------------------------- \n";
+	
+	cout<<"Luas Rumah        : "<<LuasRumah<<" m2"<<endl;
+	cout<<"Luas 1 Box Parket : "<<Box<<" m2"<<endl;
 }
